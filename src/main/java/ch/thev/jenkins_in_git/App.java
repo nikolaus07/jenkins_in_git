@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        Sys   xxxx  tem.out.println( "hallo git. Hier JENKINS" );
+		// fehler für jenkins hier wieder ausgebaut 8.1.
+        System.out.println( "hallo git. Hier JENKINS" );
     }
 }
